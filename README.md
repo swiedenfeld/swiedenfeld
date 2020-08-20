@@ -6,6 +6,6 @@ My name is Sascha. I am a programmer located in Germany. My language of choice J
 - 🌱 I’m currently learning a little Kotlin
 - 👯 I’m looking to collaborate on Open Source projects. Just ask and let's find out what I can do.
 - 💬 Ask me about consulting :) ... or anything Spring Boot related. If I don't know the answer, I'm eager to find out!
-- 📫 How to reach me: @saschagram on twitter
+- 📫 How to reach me: (@saschagram)(https://twitter.com/saschagram) on twitter
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: There's no fun in Germany
