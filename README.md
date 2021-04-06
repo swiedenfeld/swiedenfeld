@@ -1,11 +1,13 @@
 ### Hi there 👋
+I am a Software Engineer located near Düsseldorf, Germany. For more than ten years, I have helped clients build enterprise-grade, distributed systems that operate at scale.
 
-My name is Sascha. I am a programmer located in Germany. My language of choice Java, in which I have 10+ years experience building mostly network-related applications in enterprises. 
+Being an early millenial, computers and information technology fascinate me ever since I first typed BASIC programs from magazines into a Commodore C64. When internet/WWW emerged in the 1990s, web technologies immediately attracted my interest and I began writing software for the web. Meanwhile, I am a graduated computer scientist and work as a senior consultant.
 
-- 🔭 I’m currently working on client projects, which I unfortunately cannot share publicly
-- 🌱 I’m currently learning a little Kotlin
-- 👯 I’m looking to collaborate on Open Source projects. Just ask and let's find out what I can do.
-- 💬 Ask me about consulting :) ... or anything Spring Boot related. If I don't know the answer, I'm eager to find out!
+I am looking forward to connect with you, especially if you work with anything Java and/or cloud providers (AWS, Azure). 
+
+- 🔭 I’m currently working on client projects, which I cannot share publicly
+- 🌱 I’m currently learning Kotlin and Python
+- 👯 I’m looking to contribute to Open Source projects
+- 💬 Ask me about consulting ... or anything related to Java, Spring Boot, Kafka, AWS ..
 - 📫 How to reach me: [@saschagram](https://twitter.com/saschagram) on twitter
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: There's no fun in Germany
