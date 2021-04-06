@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineer located near Düsseldorf, Germany. For more than ten years, I have helped clients build enterprise-grade, distributed systems that operate at scale.
+I am a Software Engineer located near Düsseldorf, Germany.  
 
 Being an early millenial, computers and information technology fascinate me ever since I first typed BASIC programs from magazines into a Commodore C64. When internet/WWW emerged in the 1990s, web technologies immediately attracted my interest and I began writing software for the web. Meanwhile, I am a graduated computer scientist and work as a senior consultant.
 
