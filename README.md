@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sascha. I am a Software Engineer located near Düsseldorf, Germany.
+My name is Sascha. I am a Software Engineer located in Germany.
 
 Computers fascinate me ever since I first typed BASIC programs from magazines into a Commodore C64. When internet/WWW emerged in the 1990s, I began writing websites with dynamic content. I studied Computer Science (MSc). Java has accompanied me ever since first semester.
 
