@@ -10,5 +10,5 @@ Some facts about me:
 - 👯 I’m looking to contribute to Open Source projects
 - 💬 Ask me about consulting ... or anything related to Java, Spring Boot, Kafka, AWS ..
 - 🔗 I'm looking to connect with people working in software development to share and discuss experiences. Especially on these topics: Java, Kafka, AWS, Azure
-- 📫 How to reach me: [@saschagram](https://twitter.com/saschagram) on twitter
+- 📫 How to reach me: [@swfdcodes](https://twitter.com/swfdcodes) on twitter
 - 😄 Pronouns: he/him/his
